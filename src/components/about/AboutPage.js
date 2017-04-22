@@ -11,8 +11,8 @@ class AboutPage extends React.Component {
                 <p>This application uses React, Redux Router and a veraiety of other helpful libraries....</p>
 
             </div>
-        )
+        );
     }
-};
+}
 
 export default AboutPage;

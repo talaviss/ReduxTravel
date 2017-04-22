@@ -12,8 +12,8 @@ class HomePage extends React.Component {
                 <p>some text</p>
                 <Link to="about" className="btn btn-primary btn-lg">Learn more</Link>
             </div>
-        )
+        );
     }
-};
+}
 
 export default HomePage;
