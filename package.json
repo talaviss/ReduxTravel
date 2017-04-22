@@ -1,9 +1,12 @@
 {
-  "name": "redux and react",
+  "name": "reduxandreact",
   "version": "1.0.0",
   "description": "Some travel development project",
   "author": "Tal Avissar",
   "license": "MIT",
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "dependencies": {
     "babel-polyfill": "6.8.0",
     "bootstrap": "3.3.6",
