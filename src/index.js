@@ -1,5 +1,5 @@
 /**
- * Created by user on 22/04/2017. hello
+ * Created by user on 22/04/2017. hello all
  */
 import 'babel-polyfill';
 import React from 'react';
