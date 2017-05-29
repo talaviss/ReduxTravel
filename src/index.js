@@ -1,7 +1,7 @@
 /**
  * Created by user on 22/04/2017. hello all
  * fixing the remarks
- * hy there   aaaaaaaaaaaaaaaaaaa
+ * hy there   gfcg
  */
 import 'babel-polyfill';
 import React from 'react';
