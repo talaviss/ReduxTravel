@@ -1,5 +1,6 @@
 /**
  * Created by user on 22/04/2017. hello all
+ * fixing the remarks
  */
 import 'babel-polyfill';
 import React from 'react';
